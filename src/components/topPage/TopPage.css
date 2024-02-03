@@ -1,0 +1,13 @@
+.profileButton {
+  background-color: rgb(153, 189, 192);
+  color: white;
+  padding: 0.8rem;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  margin: 20px 20px;
+  width: 250px;
+}
+
+.profileButton:hover {
+  opacity: 0.6;
+}
