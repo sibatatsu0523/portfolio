@@ -3,4 +3,19 @@
 .skills {
   background-color: #eee;
   padding: 0.5em;
+  text-align: center;
+
+}
+
+
+.skill {
+  background-color: #eee;
+  padding: 0.5em;
+  text-align: center;
+  margin: 15px;
+}
+
+.type {
+  display: flex;
+  justify-content: center
 }
