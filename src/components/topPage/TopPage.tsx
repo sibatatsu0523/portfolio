@@ -19,6 +19,9 @@ const TopPage = () => {
       <button onClick={() => navigate('/certification')} className='button'>
       <h1>CONNECT</h1>
       </button>
+      <button onClick={() => navigate('/certification')} className='button'>
+      <h1>THIS IS</h1>
+      </button>
     </div>
   );
 }
