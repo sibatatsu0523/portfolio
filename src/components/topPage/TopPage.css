@@ -1,4 +1,4 @@
-.profileButton {
+.button {
   background-color: rgb(153, 189, 192);
   color: white;
   padding: 0.8rem;
@@ -8,6 +8,10 @@
   width: 250px;
 }
 
-.profileButton:hover {
+.button:hover {
   opacity: 0.6;
+}
+
+.topPage{
+  text-align: center;
 }

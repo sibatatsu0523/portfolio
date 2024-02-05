@@ -3,3 +3,21 @@
   margin-top: 5%;
   margin-right: 25%;
 }
+
+@media (max-width: 767px) {
+  .app {
+    margin-left: 0%;
+    margin-top: 2%;
+    margin-right:0%;
+  }
+}	
+
+#theme {
+  border-bottom: solid 3px rgb(153, 189, 192);;
+  text-align: center;
+  display: inline-block; 
+}
+
+.head {
+  text-align: center;
+}

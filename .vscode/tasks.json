@@ -27,6 +27,9 @@
 			"type": "shell",
 			"label": "build&deploy",
 			"command": "npm run build; firebase deploy",
-		},
+			"problemMatcher": [
+				"$gulp-tsc"
+			]
+		}
 	]
 }

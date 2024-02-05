@@ -15,9 +15,14 @@ function About() {
         クラウドやアジャイル開発に関する知識を有し、サポートなども行っています。</p>
       </div>
       <h2>PRIVATE</h2>
-        <li>お酒： ビール、ハイボールが好きです。</li>
-        <li>アニメ： 名探偵コナン、ドラゴンボール、etc...</li>
-        <li>ライブ: perfume、Martin Garrix、Afrojack</li>
+        <li>Drink： ビール、ハイボール</li>
+        <li>Movie： 名探偵コナン、ドラゴンボール、etc...</li>
+        <li>Music： perfume、ヨルシカ、Martin Garrix、Afrojack、etc...</li>
+
+      <h2>CERTIFICATE</h2>
+      <li>2020年:　基本情報技術者試験</li>
+      <li>2023年:　年応用情報技術者</li>
+      <li>2023年:　認定スクラムマスター</li>
     </div>
     <GoBackTopPage/>
     </>
