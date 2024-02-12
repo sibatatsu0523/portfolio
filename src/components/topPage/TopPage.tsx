@@ -16,11 +16,11 @@ const TopPage = () => {
       <button onClick={() => navigate('/products')} className='button'>
       <h1>PRODUCTS</h1>
       </button>
-      <button onClick={() => navigate('/certification')} className='button'>
+      <button onClick={() => navigate('/connect')} className='button'>
       <h1>CONNECT</h1>
       </button>
-      <button onClick={() => navigate('/certification')} className='button'>
-      <h1>THIS IS</h1>
+      <button onClick={() => navigate('/book')} className='button'>
+      <h1>BOOK</h1>
       </button>
     </div>
   );

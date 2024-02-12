@@ -6,3 +6,15 @@
     background-color: #eee;
     padding: 0.5em;
 }
+.gazou {
+ /*コレ*/text-align: right;
+}
+
+.pic {
+    display: flex;
+    justify-content: space-between;
+}
+
+.certificate {
+display:block  
+}
