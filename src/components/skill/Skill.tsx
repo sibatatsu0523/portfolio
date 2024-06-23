@@ -10,6 +10,8 @@ import { TbBrandVscode } from "react-icons/tb";
 import { IoLogoJavascript } from "react-icons/io5";
 import { FaJava } from "react-icons/fa";
 
+import SkillRadarChart from './SkillRadarChart'
+
 const skills = [
   {
     name: 'Language',
@@ -61,6 +63,7 @@ function Skill() {
           </>
         )}
       </div>
+      <SkillRadarChart></SkillRadarChart>
     </div>
   );
 }

@@ -1,7 +1,6 @@
 
 
 .skills {
-  background-color: #eee;
   padding: 0.5em;
   text-align: center;
   min-width: 0;
@@ -9,7 +8,7 @@
 
 
 .skill {
-  background-color: #eee;
+  background-color: rgb(255, 255, 255);
   padding: 0.5em;
   text-align: center;
   margin: 15px;
